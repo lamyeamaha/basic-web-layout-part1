@@ -1,0 +1,33 @@
+.header {
+ 	height: 90px;
+ 	background-color: #541252;
+ }
+ .wrapper{
+ 	 overflow: hidden;
+ }
+.blog{
+	height: 400px;
+	background-color:purple;
+	width:65%;
+	float:left;
+}
+.contact{
+	height: 400px;
+	background-color:black;
+    width:35%;
+    float:right;
+}
+.footer{
+	height:135px;
+	background-color:grey;
+}
+.container{
+    overflow:hidden;
+}
+.box{
+	height:200px;
+	background-color:#164394;
+	width:33.18%;           /*got this value after inspection*/
+	border:1px solid #2a52c3;
+	float:left; 
+}
